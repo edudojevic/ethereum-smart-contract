@@ -1,3 +1,4 @@
+# How to publish a smart contract on the ethereum blockchain
 This repo shows how we can push a simple smart contract onto the Ethereum blockchain. Here we use rinkeby which is a separate test blockchain.
 
 Before we can deploy a contract you need to make sure you have an address on the rinkeby blockchain. Then you can get yourself some free test ethers at: https://faucet.rinkeby.io:
