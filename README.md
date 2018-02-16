@@ -43,3 +43,6 @@ eth.getTransactionReceipt(tokenInstance.transactionHash)
 /* Check new balance */
 web3.fromWei(eth.getBalance(eth.coinbase))
 ```
+
+If everything went as expect, you should now be able to see your transaction visible at the Rinkeby etherscan:
+https://rinkeby.etherscan.io/address/<your ether address>
